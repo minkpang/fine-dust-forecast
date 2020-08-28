@@ -7,7 +7,7 @@ import pymongo
 from pymongo import MongoClient
 import datetime
 import pytz
-
+#test
 def set_post(msg, data) :
   post = {
     "Station" : str(msg[0]),
