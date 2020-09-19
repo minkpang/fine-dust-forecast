@@ -14,6 +14,9 @@
 
 
 ![스크린샷 2020-09-19 오후 8 10 15](https://user-images.githubusercontent.com/50613287/93665828-97705480-fab4-11ea-964f-09786e5937d4.png){width=250px}
+<img src="https://user-images.githubusercontent.com/50613287/93665828-97705480-fab4-11ea-964f-09786e5937d4.png"  width="700" height="370">
+
+출처: https://cutemoomin.tistory.com/112 [무민은귀여워]
 
 ![스크린샷 2020-09-19 오후 8 11 45](https://user-images.githubusercontent.com/50613287/93665831-99d2ae80-fab4-11ea-8deb-779e79b51e64.png){: width="30%" height="30%"}
 
