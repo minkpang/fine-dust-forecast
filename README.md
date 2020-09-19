@@ -17,5 +17,5 @@
 
 ![스크린샷 2020-09-19 오후 8 11 45](https://user-images.githubusercontent.com/50613287/93665831-99d2ae80-fab4-11ea-8deb-779e79b51e64.png){: width="30%" height="30%"}
 
-![스크린샷 2020-09-19 오후 8 10 54](https://user-images.githubusercontent.com/50613287/93665833-9b03db80-fab4-11ea-9c0c-9375e608ccdd.png){: width="30%" height="30%"}
+![스크린샷 2020-09-19 오후 8 10 54](https://user-images.githubusercontent.com/50613287/93665833-9b03db80-fab4-11ea-9c0c-9375e608ccdd.png){height=400px width=500px}
 
