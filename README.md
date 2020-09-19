@@ -9,7 +9,7 @@
 * 개발 당시 AWS EC2 를 사용해 구축한 서버가 존재하지 않습니다
 
 # 사용 스택
-  Python ( Socket, Matplotlib )
+  Python ( Socket, Matplotlib )\n
   Arduino ( C language ) - [Uno board, DHT-22(humidity, temperarture), SDS011(finedust)]
   MongoDB ( Compass )
   AWS EC2
